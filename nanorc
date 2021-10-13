@@ -8,8 +8,7 @@ set multibuffer
 set nohelp
 set nowrap
 set softwrap
-# Necessario instalar o aspell para usar o set spell
-# sudo apt install aspell aspell-pt-br libaspell15
-set speller "aspell -x -c"
+set speller "aspell -x -c" # Necessario instalar o aspell para usar o set spell
+                           # sudo apt install aspell aspell-pt-br libaspell15
 set suspend
 set tabsize 4
