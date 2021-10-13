@@ -4,7 +4,6 @@ set constantshow
 set historylog
 set linenumbers
 set locking
-set mouse
 set multibuffer
 set nohelp
 set nowrap
