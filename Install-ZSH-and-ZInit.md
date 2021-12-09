@@ -14,9 +14,11 @@
 
 - Add after the line `### End of ZInit's installer chunk` in the file `~/.zshrc`
 
-`zinit light zdharma-continuum/fast-syntax-highlighting 
+```
+zinit light zdharma-continuum/fast-syntax-highlighting 
 zinit light zsh-users/zsh-autosuggestions 
-zinit light zsh-users/zsh-completions`
+zinit light zsh-users/zsh-completions
+```
 
 - Reload the file
 
